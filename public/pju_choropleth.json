@@ -1,0 +1,152 @@
+{
+    "type": "ChoroplethLookup",
+    "name": "choropleth_kecamatan",
+    "metadata": {
+        "sumber": "Dinas Perhubungan Kabupaten Banjarnegara",
+        "database": "onlinkid_parkir.wilayah_kecamatan (kabupaten_id=3304)",
+        "generated_at": "2026-08-29T16:50:16+02:00",
+        "note": "Key=nama_kecamatan (lowercase). Frontend join dengan peta_kecamatan.geojson."
+    },
+    "data": {
+        "banjarmangu": {
+            "jumlah_ruas": 0,
+            "total_panjang_km": 0,
+            "jumlah_titik_parkir": 0,
+            "jumlah_jukir": 0,
+            "densitas_parkir": 0
+        },
+        "banjarnegara": {
+            "jumlah_ruas": 3,
+            "total_panjang_km": 3,
+            "jumlah_titik_parkir": 3,
+            "jumlah_jukir": 2,
+            "densitas_parkir": 1
+        },
+        "batur": {
+            "jumlah_ruas": 0,
+            "total_panjang_km": 0,
+            "jumlah_titik_parkir": 0,
+            "jumlah_jukir": 0,
+            "densitas_parkir": 0
+        },
+        "bawang": {
+            "jumlah_ruas": 0,
+            "total_panjang_km": 0,
+            "jumlah_titik_parkir": 0,
+            "jumlah_jukir": 0,
+            "densitas_parkir": 0
+        },
+        "kalibening": {
+            "jumlah_ruas": 1,
+            "total_panjang_km": 56,
+            "jumlah_titik_parkir": 8,
+            "jumlah_jukir": 6,
+            "densitas_parkir": 0.14
+        },
+        "karangkobar": {
+            "jumlah_ruas": 0,
+            "total_panjang_km": 0,
+            "jumlah_titik_parkir": 0,
+            "jumlah_jukir": 0,
+            "densitas_parkir": 0
+        },
+        "madukara": {
+            "jumlah_ruas": 0,
+            "total_panjang_km": 0,
+            "jumlah_titik_parkir": 0,
+            "jumlah_jukir": 0,
+            "densitas_parkir": 0
+        },
+        "mandiraja": {
+            "jumlah_ruas": 0,
+            "total_panjang_km": 0,
+            "jumlah_titik_parkir": 0,
+            "jumlah_jukir": 0,
+            "densitas_parkir": 0
+        },
+        "pagedongan": {
+            "jumlah_ruas": 0,
+            "total_panjang_km": 0,
+            "jumlah_titik_parkir": 0,
+            "jumlah_jukir": 0,
+            "densitas_parkir": 0
+        },
+        "pagentan": {
+            "jumlah_ruas": 0,
+            "total_panjang_km": 0,
+            "jumlah_titik_parkir": 0,
+            "jumlah_jukir": 0,
+            "densitas_parkir": 0
+        },
+        "pandanarum": {
+            "jumlah_ruas": 0,
+            "total_panjang_km": 0,
+            "jumlah_titik_parkir": 0,
+            "jumlah_jukir": 0,
+            "densitas_parkir": 0
+        },
+        "pejawaran": {
+            "jumlah_ruas": 0,
+            "total_panjang_km": 0,
+            "jumlah_titik_parkir": 0,
+            "jumlah_jukir": 0,
+            "densitas_parkir": 0
+        },
+        "punggelan": {
+            "jumlah_ruas": 0,
+            "total_panjang_km": 0,
+            "jumlah_titik_parkir": 0,
+            "jumlah_jukir": 0,
+            "densitas_parkir": 0
+        },
+        "purwanegara": {
+            "jumlah_ruas": 0,
+            "total_panjang_km": 0,
+            "jumlah_titik_parkir": 0,
+            "jumlah_jukir": 0,
+            "densitas_parkir": 0
+        },
+        "purwareja klampok": {
+            "jumlah_ruas": 0,
+            "total_panjang_km": 0,
+            "jumlah_titik_parkir": 0,
+            "jumlah_jukir": 0,
+            "densitas_parkir": 0
+        },
+        "rakit": {
+            "jumlah_ruas": 0,
+            "total_panjang_km": 0,
+            "jumlah_titik_parkir": 0,
+            "jumlah_jukir": 0,
+            "densitas_parkir": 0
+        },
+        "sigaluh": {
+            "jumlah_ruas": 0,
+            "total_panjang_km": 0,
+            "jumlah_titik_parkir": 0,
+            "jumlah_jukir": 0,
+            "densitas_parkir": 0
+        },
+        "susukan": {
+            "jumlah_ruas": 0,
+            "total_panjang_km": 0,
+            "jumlah_titik_parkir": 0,
+            "jumlah_jukir": 0,
+            "densitas_parkir": 0
+        },
+        "wanadadi": {
+            "jumlah_ruas": 0,
+            "total_panjang_km": 0,
+            "jumlah_titik_parkir": 0,
+            "jumlah_jukir": 0,
+            "densitas_parkir": 0
+        },
+        "wanayasa": {
+            "jumlah_ruas": 0,
+            "total_panjang_km": 0,
+            "jumlah_titik_parkir": 0,
+            "jumlah_jukir": 0,
+            "densitas_parkir": 0
+        }
+    }
+}

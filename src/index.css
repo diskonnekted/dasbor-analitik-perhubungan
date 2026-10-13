@@ -1,0 +1,182 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: light;
+  }
+
+  html, body, #root {
+    height: 100%;
+  }
+
+  body {
+    @apply bg-canvas text-ink font-sans antialiased;
+  }
+
+  /* Focus ring untuk aksesibilitas keyboard */
+  *:focus-visible {
+    @apply outline-none ring-2 ring-primary-500 ring-offset-2 ring-offset-canvas;
+  }
+
+  /* Reduced motion */
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: 0.001ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.001ms !important;
+    }
+  }
+}
+
+@layer components {
+  /* Card utama */
+  .card {
+    @apply bg-surface border border-border rounded-lg shadow-sm;
+  }
+
+  .card-hover {
+    @apply card transition-shadow duration-200 hover:shadow-md;
+  }
+
+  /* Section heading */
+  .section-title {
+    @apply text-sm font-semibold uppercase tracking-wider text-subink;
+  }
+
+  /* Pill / chip */
+  .chip {
+    @apply inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-xs font-medium border;
+  }
+
+  .chip-blue   { @apply bg-primary-50  text-primary-800  border-primary-200;  }
+  .chip-green  { @apply bg-accent-50   text-accent-700   border-accent-100;   }
+  .chip-amber  { @apply bg-amber-50    text-amber-800    border-amber-200;    }
+  .chip-red    { @apply bg-red-50      text-red-700      border-red-200;      }
+  .chip-gray   { @apply bg-slate-50    text-slate-700    border-slate-200;    }
+
+  /* Tombol */
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 px-4 py-2 rounded-md text-sm font-medium transition-colors duration-150;
+  }
+  .btn-primary {
+    @apply btn bg-primary-800 text-white hover:bg-primary-700 active:bg-primary-900;
+  }
+  .btn-secondary {
+    @apply btn bg-surface text-ink border border-border hover:bg-muted;
+  }
+  .btn-ghost {
+    @apply btn text-ink hover:bg-muted;
+  }
+
+  /* Input */
+  .input {
+    @apply w-full px-3 py-2 bg-surface border border-border rounded-md text-sm text-ink
+           placeholder:text-slate-400 focus:border-primary-500 focus:ring-1 focus:ring-primary-500;
+  }
+
+  /* Tabel */
+  .data-table {
+    @apply w-full text-sm;
+  }
+  .data-table thead {
+    @apply bg-muted text-subink;
+  }
+  .data-table th {
+    @apply px-3 py-2 text-left font-semibold uppercase tracking-wider text-xs;
+  }
+  .data-table td {
+    @apply px-3 py-2 border-t border-border;
+  }
+  .data-table tbody tr:hover {
+    @apply bg-primary-50/50;
+  }
+}
+
+@layer utilities {
+  /* Scrollbar halus */
+  .scrollbar-thin::-webkit-scrollbar { @apply w-2; }
+  .scrollbar-thin::-webkit-scrollbar-track { @apply bg-transparent; }
+  .scrollbar-thin::-webkit-scrollbar-thumb { @apply bg-border rounded-full; }
+  .scrollbar-thin::-webkit-scrollbar-thumb:hover { @apply bg-primary-300; }
+}
+
+/* Perkap cluster bubble */
+.perkap-cluster-icon { background: transparent !important; border: 0 !important; }
+.perkap-cluster {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 9999px;
+  transition: transform 0.15s ease;
+  cursor: pointer;
+}
+.perkap-cluster:hover { transform: scale(1.08); }
+.perkap-cluster svg { pointer-events: none; }
+.perkap-cluster__count {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+  line-height: 1;
+  font-family: 'Fira Code', ui-monospace, monospace;
+}
+.perkap-cluster span { pointer-events: none; }
+
+/* ===========================
+   Leaflet popup override
+   =========================== */
+.leaflet-popup-content-wrapper {
+  @apply bg-surface border border-border rounded-lg shadow-lg p-0;
+}
+.leaflet-popup-content {
+  @apply m-0 p-3 text-ink;
+  font-family: "Fira Sans", system-ui, sans-serif;
+  min-width: 220px;
+}
+.leaflet-popup-tip {
+  @apply bg-surface border border-border;
+}
+.leaflet-popup-close-button {
+  @apply text-subink hover:text-ink !important;
+}
+
+/* Marker cluster (jika dipakai nanti) */
+.marker-cluster-custom {
+  @apply rounded-full flex items-center justify-center text-white font-bold border-2 border-white shadow-md;
+}
+
+/* Popup content (dipakai via className di MapView) */
+.map-popup { @apply text-sm text-ink font-sans; }
+.map-popup__label {
+  @apply text-[10px] font-bold uppercase tracking-widest text-subink;
+}
+.map-popup__title {
+  @apply mt-1 text-base font-bold leading-tight text-ink;
+}
+.map-popup__row {
+  @apply mt-1 text-xs text-ink;
+}
+.map-popup__row b { @apply font-semibold; }
+.map-popup__row--small { @apply text-[11px]; }
+.map-popup__sub {
+  @apply mt-2 text-[10px] font-bold uppercase tracking-widest text-subink;
+}
+.map-popup__divider {
+  @apply my-2 border-t border-border;
+}
+.map-popup__meta {
+  @apply mt-2 text-[10px] uppercase tracking-wider text-subink;
+}
+.map-popup__hint {
+  @apply mt-1 text-[10px] text-subink;
+}
+.map-popup__quote {
+  @apply mt-2 rounded-md border border-dashed border-border bg-canvas p-2 text-xs italic text-subink;
+}
+.map-popup__chip {
+  @apply mt-1 inline-flex items-center gap-1 rounded-full border px-2 py-0.5 text-[10px] font-bold uppercase tracking-wider;
+}

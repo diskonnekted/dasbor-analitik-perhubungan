@@ -1,0 +1,72 @@
+[
+  {
+    "id_riwayat": 1,
+    "id_perlengkapan": 856,
+    "jenis_pemeliharaan": "Pemeliharaan Rutin",
+    "tgl_pemeliharaan": "2022-12-10",
+    "detail": "pemeliharaan meliputi\\r\\n- a\\r\\n-b\\r\\nc",
+    "keterangan": "Pemeliharaan Dilakukan Oleh",
+    "dilakukan_oleh": "",
+    "status": 0
+  },
+  {
+    "id_riwayat": 2,
+    "id_perlengkapan": 1796,
+    "jenis_pemeliharaan": "Pemeliharaan Rutin",
+    "tgl_pemeliharaan": "2022-12-10",
+    "detail": "asda",
+    "keterangan": "asd",
+    "dilakukan_oleh": "",
+    "status": 0
+  },
+  {
+    "id_riwayat": 3,
+    "id_perlengkapan": 1796,
+    "jenis_pemeliharaan": "asdq2eqe",
+    "tgl_pemeliharaan": "2022-12-17",
+    "detail": "q2eqweqwe",
+    "keterangan": "qeqweqwe",
+    "dilakukan_oleh": "",
+    "status": 0
+  },
+  {
+    "id_riwayat": 4,
+    "id_perlengkapan": 44,
+    "jenis_pemeliharaan": "Pemeliharaan Rutin",
+    "tgl_pemeliharaan": "2022-12-10",
+    "detail": "asda",
+    "keterangan": "asd",
+    "dilakukan_oleh": "",
+    "status": 0
+  },
+  {
+    "id_riwayat": 5,
+    "id_perlengkapan": 44,
+    "jenis_pemeliharaan": "asdq2eqe",
+    "tgl_pemeliharaan": "2022-12-17",
+    "detail": "q2eqweqwe",
+    "keterangan": "qeqweqwe",
+    "dilakukan_oleh": "",
+    "status": 0
+  },
+  {
+    "id_riwayat": 6,
+    "id_perlengkapan": 5120,
+    "jenis_pemeliharaan": "rusak",
+    "tgl_pemeliharaan": "2022-12-12",
+    "detail": "iya",
+    "keterangan": "iya",
+    "dilakukan_oleh": "",
+    "status": 0
+  },
+  {
+    "id_riwayat": 7,
+    "id_perlengkapan": 5122,
+    "jenis_pemeliharaan": "",
+    "tgl_pemeliharaan": "0000-00-00",
+    "detail": "",
+    "keterangan": "",
+    "dilakukan_oleh": "",
+    "status": 0
+  }
+]

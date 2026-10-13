@@ -1,0 +1,236 @@
+{
+    "type": "FeatureCollection",
+    "name": "dishub_titik_jukir",
+    "metadata": {
+        "sumber": "Dinas Perhubungan Kabupaten Banjarnegara",
+        "database": "onlinkid_parkir.titik_jukir + titik_parkir + juru_parkir",
+        "generated_at": "2026-08-29T16:50:16+02:00",
+        "total": 8
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2,
+                "id_juru_parkir": 2,
+                "no_juru_parkir": "P00002",
+                "nama_jukir": "Manislam",
+                "nik": "3304050107650091",
+                "id_titik_parkir": 1,
+                "nama_lokasi": "Depan Dawet Ayu",
+                "no_spt": null,
+                "tmt_awal": null,
+                "tmt_akhir": null,
+                "setoran_perbulan": 0,
+                "activated": 1,
+                "jam_awal": null,
+                "jam_akhir": null,
+                "tahun": 2021,
+                "layer": "titik_jukir"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.69511973709321,
+                    -7.3969951162463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 3,
+                "id_juru_parkir": 1,
+                "no_juru_parkir": "P00001",
+                "nama_jukir": "Mohamad Muksin",
+                "nik": "0000000000000000",
+                "id_titik_parkir": 2,
+                "nama_lokasi": "Depan Borobudur (Dipayuda)",
+                "no_spt": "00002",
+                "tmt_awal": "0000-00-00",
+                "tmt_akhir": "0000-00-00",
+                "setoran_perbulan": 100000,
+                "activated": 1,
+                "jam_awal": null,
+                "jam_akhir": null,
+                "tahun": 2021,
+                "layer": "titik_jukir"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.69962228536035,
+                    -7.39541751337614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 4,
+                "id_juru_parkir": 6,
+                "no_juru_parkir": "P00004",
+                "nama_jukir": "Sukarno",
+                "nik": "3304180107640002",
+                "id_titik_parkir": 3,
+                "nama_lokasi": "Depan Terminal, Pintu masuk-pintu keluar",
+                "no_spt": null,
+                "tmt_awal": null,
+                "tmt_akhir": null,
+                "setoran_perbulan": 0,
+                "activated": 1,
+                "jam_awal": null,
+                "jam_akhir": null,
+                "tahun": 2021,
+                "layer": "titik_jukir"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.3815,
+                    -7.132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 5,
+                "id_juru_parkir": 8,
+                "no_juru_parkir": "P00006",
+                "nama_jukir": "Waluyo Sujarto",
+                "nik": "3304182204630001",
+                "id_titik_parkir": 6,
+                "nama_lokasi": "KUA Kalibening",
+                "no_spt": null,
+                "tmt_awal": null,
+                "tmt_akhir": null,
+                "setoran_perbulan": 0,
+                "activated": 1,
+                "jam_awal": null,
+                "jam_akhir": null,
+                "tahun": 2021,
+                "layer": "titik_jukir"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.63882585850503,
+                    -7.22229720240516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 6,
+                "id_juru_parkir": 7,
+                "no_juru_parkir": "P00005",
+                "nama_jukir": "Edi Supeno",
+                "nik": "3304182403740002",
+                "id_titik_parkir": 4,
+                "nama_lokasi": "Toko Rukun Abadi",
+                "no_spt": null,
+                "tmt_awal": null,
+                "tmt_akhir": null,
+                "setoran_perbulan": 0,
+                "activated": 1,
+                "jam_awal": null,
+                "jam_akhir": null,
+                "tahun": 2021,
+                "layer": "titik_jukir"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.3815,
+                    -7.132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 7,
+                "id_juru_parkir": 9,
+                "no_juru_parkir": "P00007",
+                "nama_jukir": "Mohamad Nur",
+                "nik": "3304180107590078",
+                "id_titik_parkir": 7,
+                "nama_lokasi": "Bengkel Dedi - Elektronik Budi",
+                "no_spt": null,
+                "tmt_awal": null,
+                "tmt_akhir": null,
+                "setoran_perbulan": 0,
+                "activated": 1,
+                "jam_awal": null,
+                "jam_akhir": null,
+                "tahun": 2021,
+                "layer": "titik_jukir"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.38254,
+                    -7.13343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 8,
+                "id_juru_parkir": 10,
+                "no_juru_parkir": "P00008",
+                "nama_jukir": "Daryanto",
+                "nik": "3304180107580139",
+                "id_titik_parkir": 8,
+                "nama_lokasi": "Toko Morodadi - TB. Muliya",
+                "no_spt": null,
+                "tmt_awal": null,
+                "tmt_akhir": null,
+                "setoran_perbulan": 0,
+                "activated": 1,
+                "jam_awal": null,
+                "jam_akhir": null,
+                "tahun": 2021,
+                "layer": "titik_jukir"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.38252,
+                    -7.13329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 9,
+                "id_juru_parkir": 12,
+                "no_juru_parkir": "P00010",
+                "nama_jukir": "Badri",
+                "nik": "3304180106880001",
+                "id_titik_parkir": 10,
+                "nama_lokasi": "TB. Aditya - Bakso",
+                "no_spt": null,
+                "tmt_awal": null,
+                "tmt_akhir": null,
+                "setoran_perbulan": 0,
+                "activated": 1,
+                "jam_awal": null,
+                "jam_akhir": null,
+                "tahun": 2021,
+                "layer": "titik_jukir"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.38245,
+                    -7.13295
+                ]
+            }
+        }
+    ]
+}

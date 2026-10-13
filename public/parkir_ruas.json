@@ -1,0 +1,2639 @@
+[
+ {
+  "id_ruas_jalan": 1,
+  "nama_ruas": "MADUKARA-PAKELEN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 5,
+  "jml_titik_parkir": 5
+ },
+ {
+  "id_ruas_jalan": 2,
+  "nama_ruas": "RAKITAN-PAKELEN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 9,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 3,
+  "nama_ruas": "BLITAR-KENTENG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 4,
+  "nama_ruas": "BANJARNEGARA-KEBUTUH JURANG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 16,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 5,
+  "nama_ruas": "SOKANANDI-SEMARANG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 6,
+  "jml_titik_parkir": 1
+ },
+ {
+  "id_ruas_jalan": 6,
+  "nama_ruas": "KARANGTENGAH-WANGON",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 1
+ },
+ {
+  "id_ruas_jalan": 7,
+  "nama_ruas": "SOKAYASA-KELAPASAWIT",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 3,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 8,
+  "nama_ruas": "CENDANA-SOKAYASA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 9,
+  "nama_ruas": "ARGASOKA-PAGEDONGAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 5,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 10,
+  "nama_ruas": "SUMBEREJO-SIMBAR",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 11,
+  "nama_ruas": "WANGON-SEMAMPIR",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 12
+ },
+ {
+  "id_ruas_jalan": 12,
+  "nama_ruas": "BANDINGAN-SAWAL",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 2,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 13,
+  "nama_ruas": "MASARAN-KUTAWULUH",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 5,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 14,
+  "nama_ruas": "PAGEDONGAN-PESANGKALAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 6,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 15,
+  "nama_ruas": "SINGAMERTA-BUKITCINTA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 16,
+  "nama_ruas": "KUTAYASA-LARANGAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 6,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 17,
+  "nama_ruas": "SINGAMERTA-PAGENTAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 21,
+  "jml_titik_parkir": 1
+ },
+ {
+  "id_ruas_jalan": 18,
+  "nama_ruas": "DUREN-KEBONDALEM",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 10,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 19,
+  "nama_ruas": "PAGEDONGAN-MAJALENGKA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 8,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 20,
+  "nama_ruas": "PURWANEGARA-PUCUNGBEBUG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 7,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 21,
+  "nama_ruas": "JL KH. ACMAD DAHLAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 3
+ },
+ {
+  "id_ruas_jalan": 22,
+  "nama_ruas": "LINGKAR TERMINAL MANDIRAJA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 12
+ },
+ {
+  "id_ruas_jalan": 23,
+  "nama_ruas": "MANTRIANOM-KEBONDALEM",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 14,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 24,
+  "nama_ruas": "KEBONDALEM-SILANGIT",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 4,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 25,
+  "nama_ruas": "SIMBANG-GLEMPANG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 26,
+  "nama_ruas": "PUCANG-JENGGAWUR",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 2,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 27,
+  "nama_ruas": "BANTAR-KERTAYASA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 28,
+  "nama_ruas": "MANDIRAJA-BANJENGAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 2
+ },
+ {
+  "id_ruas_jalan": 29,
+  "nama_ruas": "KERTAYASA-SIMBANG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 2,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 30,
+  "nama_ruas": "CANDIWULAN-SIMBANG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 31,
+  "nama_ruas": "PANGGISARI-CANDIWULAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 2,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 32,
+  "nama_ruas": "JL KAPTEN P. TENDEAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 33,
+  "nama_ruas": "GUMELEM KULON-DERIK",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 3,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 34,
+  "nama_ruas": "KARANGJATI-GLEMPANG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 8,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 35,
+  "nama_ruas": "KLAMPOK-PURWAREJA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 2,
+  "jml_titik_parkir": 2
+ },
+ {
+  "id_ruas_jalan": 36,
+  "nama_ruas": "KLAMPOK-BTS KAB.PURBALINGGA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 37,
+  "nama_ruas": "PEKIRINGAN-PWJ KLAMPOK",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 2,
+  "jml_titik_parkir": 4
+ },
+ {
+  "id_ruas_jalan": 38,
+  "nama_ruas": "SUSUKAN-BTS KEBUMEN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 6,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 39,
+  "nama_ruas": "JL FLAMBOYAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 40,
+  "nama_ruas": "BRENGKOK-KEMARANGGON",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 3,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 41,
+  "nama_ruas": "RSUD",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 42,
+  "nama_ruas": "PURWONEGORO-KINCANG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 2,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 43,
+  "nama_ruas": "SIRKANDI-SALAMERTA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 44,
+  "nama_ruas": "PUCUNGBEDUG- MERDEN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 8,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 45,
+  "nama_ruas": "GUMIWANG-WANADRI",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 4
+ },
+ {
+  "id_ruas_jalan": 46,
+  "nama_ruas": "MERDEN-KEDUNGPANE",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 8,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 47,
+  "nama_ruas": "SOMAWANGI-KALITENGAH",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 6,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 48,
+  "nama_ruas": "GRIPIT-KALIBENING",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 20,
+  "jml_titik_parkir": 2
+ },
+ {
+  "id_ruas_jalan": 49,
+  "nama_ruas": "WANADADI-PADEPOKAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 50,
+  "nama_ruas": "WANADADI-PUNGGELAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 15,
+  "jml_titik_parkir": 3
+ },
+ {
+  "id_ruas_jalan": 51,
+  "nama_ruas": "BANJARMANGU-RAKIT",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 25,
+  "jml_titik_parkir": 6
+ },
+ {
+  "id_ruas_jalan": 52,
+  "nama_ruas": "TAPEN-SAWANGAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 2,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 53,
+  "nama_ruas": "JL MELATI",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 54,
+  "nama_ruas": "MANDIRAJA-RAKIT",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 2,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 55,
+  "nama_ruas": "BADAMITA-TIMBANG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 3,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 56,
+  "nama_ruas": "PLORENGAN-SIMEGO",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 5,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 57,
+  "nama_ruas": "KASINOM-BAKULAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 4,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 58,
+  "nama_ruas": "JL SERUNI",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 59,
+  "nama_ruas": "RAKIT-BANDINGAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 3,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 60,
+  "nama_ruas": "PINGIT-GLEMPANG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 61,
+  "nama_ruas": "BULU-PINGIT",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 2,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 62,
+  "nama_ruas": "TAPEN-TANJUNGANOM",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 6,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 63,
+  "nama_ruas": "PUNGGELAN-JEMBANGAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 10,
+  "jml_titik_parkir": 1
+ },
+ {
+  "id_ruas_jalan": 64,
+  "nama_ruas": "PUNGGELAN-SIKOKOL",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 6,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 65,
+  "nama_ruas": "KESENET-SIGEBLOG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 6,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 66,
+  "nama_ruas": "BONDOLHARJO-TANJUNGTIRTA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 6,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 67,
+  "nama_ruas": "TANJUNGTIRTA-TLAGAMAYA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 4,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 68,
+  "nama_ruas": "BADAKARYA-TRIBUANA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 6,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 69,
+  "nama_ruas": "JL JEND. A. YANI",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 70,
+  "nama_ruas": "BANJARMANGU-LINGGAMERTA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 7,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 71,
+  "nama_ruas": "KARANGSARI-SARWODADI",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 72,
+  "nama_ruas": "DANAKERTA-KLAPA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 6,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 73,
+  "nama_ruas": "JL MAY. JEND. SUTOYO",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 1
+ },
+ {
+  "id_ruas_jalan": 74,
+  "nama_ruas": "JL SUNAN GRIPIT",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 75,
+  "nama_ruas": "LINGKAR PASAR MANIS",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 76,
+  "nama_ruas": "PURWASANA-JEMBANGAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 4,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 77,
+  "nama_ruas": "TANJUNGTIRTA-SIPOH",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 4,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 78,
+  "nama_ruas": "BENDAWULUH-MLAYA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 5,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 79,
+  "nama_ruas": "KESENET-KENDAGA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 4,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 80,
+  "nama_ruas": "BEJI-SLATRI",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 5,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 81,
+  "nama_ruas": "WANAKARSA-SIPEDANG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 6,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 82,
+  "nama_ruas": "KARANGKOBAR-PAWEDEN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 8,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 83,
+  "nama_ruas": "KARANAGKOBAR-KARANGGONDANG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 6,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 84,
+  "nama_ruas": "KARANGKOBAR-BATUR",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 15,
+  "jml_titik_parkir": 6
+ },
+ {
+  "id_ruas_jalan": 85,
+  "nama_ruas": "KARANGGONDANG-SEMBAWA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 5,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 86,
+  "nama_ruas": "MARGASARI-GARDU",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 5,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 87,
+  "nama_ruas": "KALIBENING-GETAS",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 7,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 88,
+  "nama_ruas": "CAWAKAN-KARANGGONDANG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 4,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 89,
+  "nama_ruas": "KALISAT-BINANGUN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 4,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 90,
+  "nama_ruas": "JL KI JAGAPATI",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 91,
+  "nama_ruas": "JL PEMUDA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 15
+ },
+ {
+  "id_ruas_jalan": 92,
+  "nama_ruas": "GETAS-MLAYA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 11,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 93,
+  "nama_ruas": "GETAS-BTS KAB PEKALONGAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 6,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 94,
+  "nama_ruas": "PRINGAMBA-LENGSAR",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 7,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 95,
+  "nama_ruas": "PANDANARUM-SINDUAJI",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 6,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 96,
+  "nama_ruas": "LAWEN-PINGIT LOR",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 5,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 97,
+  "nama_ruas": "LAWEN-PASEGERAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 7,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 98,
+  "nama_ruas": "JL MENUR",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 99,
+  "nama_ruas": "KARANGKOBAR-AMBAL",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 2,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 100,
+  "nama_ruas": "KARANGKOBAR-GUMELAR",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 3,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 101,
+  "nama_ruas": "BRI",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 102,
+  "nama_ruas": "KUNINGAN-AMBAL",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 5,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 103,
+  "nama_ruas": "KARANGTENGAH-PESURENAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 8,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 104,
+  "nama_ruas": "PENUSUPAN-BATUR",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 8,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 105,
+  "nama_ruas": "KUBANG-SUSUKAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 106,
+  "nama_ruas": "WANARAJA-KEBODUDU",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 107,
+  "nama_ruas": "JL KH BUSYAERI",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 108,
+  "nama_ruas": "SARWODADI-GROGOL",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 6,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 109,
+  "nama_ruas": "PENUSUPAN-KAREKAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 6,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 110,
+  "nama_ruas": "JATILAWANG-KALIDERES",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 5,
+  "jml_titik_parkir": 1
+ },
+ {
+  "id_ruas_jalan": 111,
+  "nama_ruas": "JL PRAJA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 112,
+  "nama_ruas": "PAGENTAN-PEJAWARAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 9,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 113,
+  "nama_ruas": "ARIBAYA-KAYUARES",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 4,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 114,
+  "nama_ruas": "CLAPAR-NAGASARI",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 6,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 115,
+  "nama_ruas": "BULUKUNING-DAWUHAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 14,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 116,
+  "nama_ruas": "JL HOS COKROAMINOTO",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 117,
+  "nama_ruas": "SUMBER-SIDENGKOK",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 118,
+  "nama_ruas": "TLAGABANG-PESAYANGAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 2,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 119,
+  "nama_ruas": "JL MAY.JAND.MT.HARYONO",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 1
+ },
+ {
+  "id_ruas_jalan": 120,
+  "nama_ruas": "JL VETERAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 1
+ },
+ {
+  "id_ruas_jalan": 121,
+  "nama_ruas": "JL H. AGUS SALIM",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 122,
+  "nama_ruas": "JL JEND. GATOT SUBROTO",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 123,
+  "nama_ruas": "DALAM KOTA BATUR",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 6
+ },
+ {
+  "id_ruas_jalan": 124,
+  "nama_ruas": "JL LET.JEND. SUPRAPTO",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 3,
+  "jml_titik_parkir": 6
+ },
+ {
+  "id_ruas_jalan": 125,
+  "nama_ruas": "JL YOS SUDARSO",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 126,
+  "nama_ruas": "JL PARTO ADIWILJOYO",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 127,
+  "nama_ruas": "JL LET.JEND. S. PARMAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1.7,
+  "jml_titik_parkir": 1
+ },
+ {
+  "id_ruas_jalan": 128,
+  "nama_ruas": "JL STADION",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 129,
+  "nama_ruas": "JL WIJAYA KUSUMA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 130,
+  "nama_ruas": "JL TERATAI",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 131,
+  "nama_ruas": "JL TANJUNG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 132,
+  "nama_ruas": "JL ANGGREK",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 133,
+  "nama_ruas": "JL NUSA INDAH",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 134,
+  "nama_ruas": "JL DAHLIA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 135,
+  "nama_ruas": "JL ALAMANDA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 136,
+  "nama_ruas": "JL CEMPAKA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 137,
+  "nama_ruas": "JL MAWAR",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 138,
+  "nama_ruas": "JL SAKURA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 139,
+  "nama_ruas": "JL RSS SEMARANG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 140,
+  "nama_ruas": "JAGAPATI-JAGABELA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 141,
+  "nama_ruas": "JL UNTA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 142,
+  "nama_ruas": "JL.KI JAGAPATI 2",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 143,
+  "nama_ruas": "JL COKROAMINOTO II",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 144,
+  "nama_ruas": "JL KRENAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 145,
+  "nama_ruas": "JL MANYAR",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 146,
+  "nama_ruas": "JL GLATIK",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 147,
+  "nama_ruas": "JL NURI",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 148,
+  "nama_ruas": "JL SALAMANIK",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 149,
+  "nama_ruas": "JL KEPODANG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 150,
+  "nama_ruas": "JL KUTILANG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 151,
+  "nama_ruas": "JL KENARI",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 152,
+  "nama_ruas": "JL LAWET",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 153,
+  "nama_ruas": "JL SRITI",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 154,
+  "nama_ruas": "JL GAGAK",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 155,
+  "nama_ruas": "JL MERPATI",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 156,
+  "nama_ruas": "JL CENDRAWASIH",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 157,
+  "nama_ruas": "JL SOKANANDI II",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 158,
+  "nama_ruas": "JL KALIBENDA II",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 159,
+  "nama_ruas": "JL BAMBANG KOMPOL",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 160,
+  "nama_ruas": "JL AL FATAH",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 161,
+  "nama_ruas": "JL RSS KALISEMI",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 162,
+  "nama_ruas": "JL JEND. SUDIRMAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 1
+ },
+ {
+  "id_ruas_jalan": 163,
+  "nama_ruas": "JL DIPAYUDA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 7
+ },
+ {
+  "id_ruas_jalan": 164,
+  "nama_ruas": "SIJERUK-PRENDENGAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 4,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 165,
+  "nama_ruas": "GANDULEKOR-KALIWINASUH",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 2,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 166,
+  "nama_ruas": "GUMELAR-BANTAR",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 2,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 167,
+  "nama_ruas": "PANDANSARI-KARANGTENGAH",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 4,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 168,
+  "nama_ruas": "KASIMPAR-PENANGGUNGAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 4,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 169,
+  "nama_ruas": "PESANGKALAN-SADANG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 4,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 170,
+  "nama_ruas": "KLAMPOK-KECITRAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 1
+ },
+ {
+  "id_ruas_jalan": 171,
+  "nama_ruas": "JL TERTEK",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 172,
+  "nama_ruas": "PURWASABA-PAGAK",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 173,
+  "nama_ruas": "PEKUNCEN-PURWAREJA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 174,
+  "nama_ruas": "PANGGISARI-GANDULEKOR",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 175,
+  "nama_ruas": "NANGKOD-SAMBONG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 176,
+  "nama_ruas": "PETAMBAKAN-KALIURIP",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 9,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 177,
+  "nama_ruas": "JL PERKUTUT",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 178,
+  "nama_ruas": "GEMBOL-TEGALJERUK",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 11,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 179,
+  "nama_ruas": "PEKASIRAN-BTS KAB.BATANG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 1
+ },
+ {
+  "id_ruas_jalan": 180,
+  "nama_ruas": "JL PASAR",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 181,
+  "nama_ruas": "JL AL MUNAWAROH II",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 182,
+  "nama_ruas": "JL KASWARI",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 183,
+  "nama_ruas": "BANJARNEGARA-ARGASOKA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 2,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 184,
+  "nama_ruas": "",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 185,
+  "nama_ruas": "TUNGGARA-KALIKUTA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 4,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 186,
+  "nama_ruas": "SOMAWANGI-SIMBANG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 4,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 187,
+  "nama_ruas": "ARGASOKA-TWELAGIRI",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 2,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 188,
+  "nama_ruas": "PURWASABA-KEBANARAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 3,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 189,
+  "nama_ruas": "GUMINGSIR-SOKAYASA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 3,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 190,
+  "nama_ruas": "SOKAYASA-PRINGAMBA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 6,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 191,
+  "nama_ruas": "SEMARANG-KARANGTENGAH",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 4,
+  "jml_titik_parkir": 1
+ },
+ {
+  "id_ruas_jalan": 192,
+  "nama_ruas": "RANDEGAN-KALIKUTA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 7,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 193,
+  "nama_ruas": "KALISEMI-TLAGAWERA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 2,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 194,
+  "nama_ruas": "PARAKANCANGGAH-KENTENG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 2,
+  "jml_titik_parkir": 1
+ },
+ {
+  "id_ruas_jalan": 195,
+  "nama_ruas": "PUCANG-GEMURUH",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 2,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 196,
+  "nama_ruas": "KALIMENDONG- MERDEN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 3,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 197,
+  "nama_ruas": "SEMAMPIR-GOTONG ROYONG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 3,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 198,
+  "nama_ruas": "KALIMANDI-KLAMPOK",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 199,
+  "nama_ruas": "MASARAN-TWELAGIRI",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 4,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 200,
+  "nama_ruas": "GRIBIG-PRINGAMBA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 2,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 201,
+  "nama_ruas": "BAWANG-TAPEN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 3,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 202,
+  "nama_ruas": "PUCANG-MASARAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 3,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 203,
+  "nama_ruas": "JL TIRTOSARI",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 204,
+  "nama_ruas": "KUTAYASA-KUTAWULUH",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 4,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 205,
+  "nama_ruas": "BANDINGAN-PINGIT",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 2,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 206,
+  "nama_ruas": "SIGALUH-KEMIRI",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 3,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 207,
+  "nama_ruas": "REJASA-MADUKARA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 7,
+  "jml_titik_parkir": 1
+ },
+ {
+  "id_ruas_jalan": 208,
+  "nama_ruas": "PURWASABA- MERDEN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 8,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 209,
+  "nama_ruas": "KALIMANDI-KEDUNGPANE",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 6,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 210,
+  "nama_ruas": "PURWASABA-PURWAREJA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 6,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 211,
+  "nama_ruas": "JL MAY. JEND. PANJAITAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 1
+ },
+ {
+  "id_ruas_jalan": 212,
+  "nama_ruas": "KALIMANDI-SIRKANDI",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 3,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 213,
+  "nama_ruas": "PIASA-KEMAWI",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 2,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 214,
+  "nama_ruas": "SUSUKAN-KEMARANGGON",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 4,
+  "jml_titik_parkir": 2
+ },
+ {
+  "id_ruas_jalan": 215,
+  "nama_ruas": "GUMELEM WETAN-PIASA WETAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 6,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 216,
+  "nama_ruas": "DANAREJA- MERDEN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 4,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 217,
+  "nama_ruas": "LEBAKWANGI-KEBONDALEM",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 218,
+  "nama_ruas": "MEDAYU-PASEH",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 2,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 219,
+  "nama_ruas": "SITUWANGI-PINGIT",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 3,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 220,
+  "nama_ruas": "WANAKARSA-KARANGKEMIRI",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 4,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 221,
+  "nama_ruas": "BANDINGAN-BATAS AKB.PURBALINGGA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 222,
+  "nama_ruas": "KARANGJAMBE-SAWANGAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 3,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 223,
+  "nama_ruas": "PINGIT-BANTARMALANG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 2,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 224,
+  "nama_ruas": "MEDAYU-KLETHAK",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 2,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 225,
+  "nama_ruas": "TANJUNGTIRTA-SAMPANG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 3,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 226,
+  "nama_ruas": "DAWUHAN-PRINGWULUNG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 2,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 227,
+  "nama_ruas": "JEMBANGAN-PENANGGUNGAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 2,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 228,
+  "nama_ruas": "JL BRIG. JEND. B. SUGENG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 229,
+  "nama_ruas": "TRIBUANA-KECEPIT",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 4,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 230,
+  "nama_ruas": "DANAKERTA-SAMBONG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 5,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 231,
+  "nama_ruas": "DANAKERTA-DOMAS",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 3,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 232,
+  "nama_ruas": "DANAKERTA-NANGKOD",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 3,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 233,
+  "nama_ruas": "JL SOKANANDI I",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 2,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 234,
+  "nama_ruas": "TRIBUANA-SAMBONG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 3,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 235,
+  "nama_ruas": "WATUBELAH-WIRASARI",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 236,
+  "nama_ruas": "SIDARATA-PUNGGELAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 3,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 237,
+  "nama_ruas": "KALIBENING-GUNUNGLANGIT",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 7,
+  "jml_titik_parkir": 12
+ },
+ {
+  "id_ruas_jalan": 238,
+  "nama_ruas": "RAWAPAKIS-BAKULAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 3,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 239,
+  "nama_ruas": "KUBANG-BANTAR",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 5,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 240,
+  "nama_ruas": "SEMBAWA-SEMINGKIR",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 3,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 241,
+  "nama_ruas": "SIDAKANGEN-BEDANA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 5,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 242,
+  "nama_ruas": "KARANGGONDANG-PEGERPELAH",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 5,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 243,
+  "nama_ruas": "KARANGKOBAR-DIWEK",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 2,
+  "jml_titik_parkir": 4
+ },
+ {
+  "id_ruas_jalan": 244,
+  "nama_ruas": "KARANGKOBAR-BANTAR",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 2,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 245,
+  "nama_ruas": "WANARAJA-WOTGALAR",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 5,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 246,
+  "nama_ruas": "JIWAN-KASIMPAR",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 3,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 247,
+  "nama_ruas": "KALIDERES-KARANGMALANG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 2,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 248,
+  "nama_ruas": "JL LETNAN  KARJONO",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 2,
+  "jml_titik_parkir": 1
+ },
+ {
+  "id_ruas_jalan": 249,
+  "nama_ruas": "BITING-SARWODADI",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 3,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 250,
+  "nama_ruas": "GROGOL-TLAGABANG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 3,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 251,
+  "nama_ruas": "KALILUNJAR-KAREKAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 3,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 252,
+  "nama_ruas": "DERMAYASA-PLUNJARAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 3,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 253,
+  "nama_ruas": "ARIBAYA-SOKARAJA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 3,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 254,
+  "nama_ruas": "RATAMBA-MRAMEN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 2,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 255,
+  "nama_ruas": "JL TENTARA PELAJAR",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 2.11,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 256,
+  "nama_ruas": "JL SEDAP MALAM",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 257,
+  "nama_ruas": "PURWAJIWA-BTS KABUPATEN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 4,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 258,
+  "nama_ruas": "PAYAMAN-DAWUHAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 2,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 259,
+  "nama_ruas": "KEPAKISAN- BTS KAB. BATANG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 4,
+  "jml_titik_parkir": 2
+ },
+ {
+  "id_ruas_jalan": 260,
+  "nama_ruas": "CONDONGCAMPUR-GEMBOL",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 2,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 261,
+  "nama_ruas": "PAYAMAN-PESANTREN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 4,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 262,
+  "nama_ruas": "TEMPURAN-BALUN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 4,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 263,
+  "nama_ruas": "BANTAR-SUWIDAK",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 2,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 264,
+  "nama_ruas": "JL KALIBENDA I",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 265,
+  "nama_ruas": "JL AL MUNAWAROH",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 266,
+  "nama_ruas": "JL GARUDA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 267,
+  "nama_ruas": "MANDIRAJA-SOMAWANGI",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 3,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 268,
+  "nama_ruas": "SUSUKAN-BTS PURBALINGGA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 3,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 269,
+  "nama_ruas": "PASEH-SIPEDANG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 270,
+  "nama_ruas": "MERDEN-LAWANGAWU",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 7,
+  "jml_titik_parkir": 6
+ },
+ {
+  "id_ruas_jalan": 271,
+  "nama_ruas": "MAJASARI-BABADAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 4,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 272,
+  "nama_ruas": "WANASARI-PESANGKALAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 5,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 273,
+  "nama_ruas": "WIRASARI-PRINGAMBA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 8,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 274,
+  "nama_ruas": "SEMAMPIR-PUCANG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 3,
+  "jml_titik_parkir": 1
+ },
+ {
+  "id_ruas_jalan": 275,
+  "nama_ruas": "GEMILANG-TIMBANG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 276,
+  "nama_ruas": "KARANGKOBAR-LEKSANA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 1
+ },
+ {
+  "id_ruas_jalan": 277,
+  "nama_ruas": "SIDENGOK-PLUNJARAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 278,
+  "nama_ruas": "JL LINGKAR PASAR PEJAWARAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 8,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 279,
+  "nama_ruas": "JL GOTONG ROYONG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 283,
+  "nama_ruas": "KLAMPOK - BTS. KOTA BANJARNEGARA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 27,
+  "jml_titik_parkir": 18
+ },
+ {
+  "id_ruas_jalan": 284,
+  "nama_ruas": "MANDIRAJA - KETILENG / BTS. KAB. KEBUMEN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 9.84,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 285,
+  "nama_ruas": "WANAYASA - KALIBENING / BTS. KAB. PEKALONGAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 21.55,
+  "jml_titik_parkir": 1
+ },
+ {
+  "id_ruas_jalan": 286,
+  "nama_ruas": "WANAYASA - BATUR",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 15.12,
+  "jml_titik_parkir": 1
+ },
+ {
+  "id_ruas_jalan": 287,
+  "nama_ruas": "BATUR - DIENG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 12.24,
+  "jml_titik_parkir": 19
+ },
+ {
+  "id_ruas_jalan": 288,
+  "nama_ruas": "JL. SUNAN GRIPIT (BANJARNEGARA)",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 5.13,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 289,
+  "nama_ruas": "BANJARNEGARA - WANAYASA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 24.06,
+  "jml_titik_parkir": 21
+ },
+ {
+  "id_ruas_jalan": 290,
+  "nama_ruas": "KLAMPOK - PURBALINGGA",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 0.55,
+  "jml_titik_parkir": 0
+ },
+ {
+  "id_ruas_jalan": 291,
+  "nama_ruas": "BTS. KAB. BANJARNEGARA / BANYUMAS - KLAMPOK",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 10.05,
+  "jml_titik_parkir": 3
+ },
+ {
+  "id_ruas_jalan": 292,
+  "nama_ruas": "BTS. KOTA BANJARNEGARA - BTS. KAB. WONOSOBO",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 12.25,
+  "jml_titik_parkir": 2
+ },
+ {
+  "id_ruas_jalan": 293,
+  "nama_ruas": "ASWATAMA - BTS. DIENG KULON / DIENG WETAN",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 1.7,
+  "jml_titik_parkir": 8
+ },
+ {
+  "id_ruas_jalan": 294,
+  "nama_ruas": "JL. KAWAH SIKIDANG",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 850,
+  "jml_titik_parkir": 4
+ },
+ {
+  "id_ruas_jalan": 295,
+  "nama_ruas": "LINGKAR TIMUR PASAR KARANGKOBAR",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 900,
+  "jml_titik_parkir": 9
+ },
+ {
+  "id_ruas_jalan": 296,
+  "nama_ruas": "LINGKAR BARAT PASAR KARANGKOBAR",
+  "kelas_ruas": "",
+  "pangkal_ruas": "",
+  "ujung_ruas": "",
+  "panjang": 300,
+  "jml_titik_parkir": 0
+ }
+]

@@ -1,0 +1,24 @@
+
+> dishub-banjarnegara-dashboard@0.1.0 dev
+> vite --port 5180
+
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m525[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5180[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://172.18.224.1:[1m5180[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.1.10:[1m5180[22m/[39m
+[2m20.15.29[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/DashboardPage.jsx, /src/index.css[22m
+[2m20.15.39[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/DashboardPage.jsx, /src/index.css[22m
+[2m20.15.50[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/DashboardPage.jsx, /src/index.css[22m
+[2m20.16.01[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/DashboardPage.jsx, /src/index.css[22m
+[2m20.16.05[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/DashboardPage.jsx, /src/index.css[22m
+[2m20.19.00[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/PetaTematikPage.jsx, /src/index.css[22m
+[2m20.19.13[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/map/MapView.jsx, /src/index.css[22m
+[2m20.19.19[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/map/MapView.jsx, /src/index.css[22m
+[2m20.21.42[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/DashboardPage.jsx, /src/index.css[22m
+[2m20.21.53[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/DashboardPage.jsx, /src/index.css[22m
+[2m20.35.13[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css, /src/pages/PetaTematikPage.jsx, /src/pages/LaporanPage.jsx[22m
+[2m20.54.56[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx, /src/index.css[22m
+[2m20.55.58[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx, /src/index.css[22m
+[2m20.56.24[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Sidebar.jsx, /src/index.css[22m

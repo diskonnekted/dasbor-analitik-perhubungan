@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "nama": "APILL",
+    "icon": "tl",
+    "gambar": "apil.jpg",
+    "sub": "",
+    "keterangan": ""
+  },
+  {
+    "id": 2,
+    "nama": "Warning Light",
+    "icon": "wl",
+    "gambar": "warning.jpg",
+    "sub": "",
+    "keterangan": ""
+  },
+  {
+    "id": 3,
+    "nama": "Lampu PJU",
+    "icon": "pju",
+    "gambar": "pju.jpg",
+    "sub": "",
+    "keterangan": ""
+  },
+  {
+    "id": 4,
+    "nama": "Rambu",
+    "icon": "rambu",
+    "gambar": "rambu.jpg",
+    "sub": "",
+    "keterangan": ""
+  },
+  {
+    "id": 5,
+    "nama": "Marka",
+    "icon": "marka",
+    "gambar": "marka.jpg",
+    "sub": "",
+    "keterangan": ""
+  },
+  {
+    "id": 6,
+    "nama": "Guardrail",
+    "icon": "guard",
+    "gambar": "guardrail.jpg",
+    "sub": "",
+    "keterangan": ""
+  },
+  {
+    "id": 7,
+    "nama": "Delineator",
+    "icon": "deli",
+    "gambar": "deliniator.jpg",
+    "sub": "",
+    "keterangan": ""
+  },
+  {
+    "id": 8,
+    "nama": "Cermin Tikungan",
+    "icon": "ct",
+    "gambar": "cermin.jpg",
+    "sub": "",
+    "keterangan": ""
+  },
+  {
+    "id": 9,
+    "nama": "Peringatan",
+    "icon": "rambu",
+    "gambar": "warning.jpg",
+    "sub": "4",
+    "keterangan": ""
+  },
+  {
+    "id": 10,
+    "nama": "Larangan",
+    "icon": "rambu",
+    "gambar": "apil.jpg",
+    "sub": "4",
+    "keterangan": ""
+  },
+  {
+    "id": 11,
+    "nama": "Perintah",
+    "icon": "rambu",
+    "gambar": "apil.jpg",
+    "sub": "4",
+    "keterangan": ""
+  },
+  {
+    "id": 12,
+    "nama": "Petunjuk",
+    "icon": "rambu",
+    "gambar": "apil.jpg",
+    "sub": "4",
+    "keterangan": ""
+  },
+  {
+    "id": 27,
+    "nama": "Terminal Bus",
+    "icon": "bus-station",
+    "gambar": "1671611198_4faa547c9a9e74ab0edd.jpg",
+    "sub": "",
+    "keterangan": "Terminal Bus"
+  },
+  {
+    "id": 28,
+    "nama": "Halte Bus",
+    "icon": "bus-stop",
+    "gambar": "1671611601_f91d6fad93d4503ae513.jpg",
+    "sub": "",
+    "keterangan": "Halte Bus"
+  },
+  {
+    "id": 29,
+    "nama": "",
+    "icon": "",
+    "gambar": "",
+    "sub": "",
+    "keterangan": ""
+  },
+  {
+    "id": 30,
+    "nama": "",
+    "icon": "",
+    "gambar": "",
+    "sub": "",
+    "keterangan": ""
+  }
+]

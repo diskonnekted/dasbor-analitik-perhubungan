@@ -1,0 +1,353 @@
+{
+    "type": "FeatureCollection",
+    "name": "dishub_titik_parkir",
+    "metadata": {
+        "sumber": "Dinas Perhubungan Kabupaten Banjarnegara",
+        "database": "onlinkid_parkir.titik_parkir",
+        "generated_at": "2026-08-29T16:50:16+02:00",
+        "total": 11
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1,
+                "nama": "Depan Dawet Ayu",
+                "jenis_fasilitas": "dalam",
+                "jenis_parkir_luar": null,
+                "srp_motor": 0,
+                "srp_mobil": 0,
+                "id_ruasjalan": 211,
+                "ruas": "JL MAY. JEND. PANJAITAN",
+                "kelas_ruas": "Kabupaten",
+                "id_kecamatan": "3304060",
+                "nama_kecamatan": " Banjarnegara",
+                "id_desa": "3304060016",
+                "jenis_desa": "Kelurahan",
+                "panjang_lokasi": 4,
+                "lebar_lokasi": 2,
+                "luas_lokasi": 8,
+                "foto": null,
+                "update_time": "2021-08-27 10:28:52",
+                "layer": "titik_parkir"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.69511973709321,
+                    -7.3969951162463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2,
+                "nama": "Depan Borobudur (Dipayuda)",
+                "jenis_fasilitas": "dalam",
+                "jenis_parkir_luar": null,
+                "srp_motor": 12,
+                "srp_mobil": 0,
+                "id_ruasjalan": 163,
+                "ruas": "JL DIPAYUDA",
+                "kelas_ruas": "Kabupaten",
+                "id_kecamatan": "3304060",
+                "nama_kecamatan": " Banjarnegara",
+                "id_desa": "3304060015",
+                "jenis_desa": "Kelurahan",
+                "panjang_lokasi": 12,
+                "lebar_lokasi": 4,
+                "luas_lokasi": 48,
+                "foto": ".\/media\/parkir\/borobudur.png",
+                "update_time": "2021-08-28 12:46:32",
+                "layer": "titik_parkir"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.69962228536035,
+                    -7.39541751337614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 3,
+                "nama": "Depan Terminal, Pintu masuk-pintu keluar",
+                "jenis_fasilitas": "dalam",
+                "jenis_parkir_luar": null,
+                "srp_motor": 0,
+                "srp_mobil": 0,
+                "id_ruasjalan": 237,
+                "ruas": "KALIBENING-GUNUNGLANGIT",
+                "kelas_ruas": "Kabupaten",
+                "id_kecamatan": "3304180",
+                "nama_kecamatan": " Kalibening",
+                "id_desa": "3304180012",
+                "jenis_desa": "Desa",
+                "panjang_lokasi": 41,
+                "lebar_lokasi": 2,
+                "luas_lokasi": 82,
+                "foto": ".\/media\/parkir\/lokasi_parkir_kalben.jpg",
+                "update_time": "2021-08-28 13:56:46",
+                "layer": "titik_parkir"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.3815,
+                    -7.132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 4,
+                "nama": "Toko Rukun Abadi",
+                "jenis_fasilitas": "dalam",
+                "jenis_parkir_luar": null,
+                "srp_motor": 0,
+                "srp_mobil": 0,
+                "id_ruasjalan": 237,
+                "ruas": "KALIBENING-GUNUNGLANGIT",
+                "kelas_ruas": "Kabupaten",
+                "id_kecamatan": "3304180",
+                "nama_kecamatan": " Kalibening",
+                "id_desa": "3304180012",
+                "jenis_desa": "Desa",
+                "panjang_lokasi": 14,
+                "lebar_lokasi": 2,
+                "luas_lokasi": 28,
+                "foto": ".\/media\/parkir\/rukun_abadi_kalben.jpg",
+                "update_time": "2021-08-28 14:30:06",
+                "layer": "titik_parkir"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.3815,
+                    -7.132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 5,
+                "nama": "Puskesmas Kalibening",
+                "jenis_fasilitas": "dalam",
+                "jenis_parkir_luar": null,
+                "srp_motor": 0,
+                "srp_mobil": 0,
+                "id_ruasjalan": 237,
+                "ruas": "KALIBENING-GUNUNGLANGIT",
+                "kelas_ruas": "Kabupaten",
+                "id_kecamatan": "3304180",
+                "nama_kecamatan": " Kalibening",
+                "id_desa": "3304180012",
+                "jenis_desa": "Desa",
+                "panjang_lokasi": 15,
+                "lebar_lokasi": 2,
+                "luas_lokasi": 30,
+                "foto": ".\/media\/parkir\/puskesmas_kalibening.jpg",
+                "update_time": "2021-08-28 15:13:22",
+                "layer": "titik_parkir"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.63949424822668,
+                    -7.22300715298001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 6,
+                "nama": "KUA Kalibening",
+                "jenis_fasilitas": "dalam",
+                "jenis_parkir_luar": null,
+                "srp_motor": 0,
+                "srp_mobil": 0,
+                "id_ruasjalan": 237,
+                "ruas": "KALIBENING-GUNUNGLANGIT",
+                "kelas_ruas": "Kabupaten",
+                "id_kecamatan": "3304180",
+                "nama_kecamatan": " Kalibening",
+                "id_desa": "3304180012",
+                "jenis_desa": "Desa",
+                "panjang_lokasi": 69,
+                "lebar_lokasi": 2,
+                "luas_lokasi": 138,
+                "foto": ".\/media\/parkir\/KUA_Kalibening.jpg",
+                "update_time": "2021-08-28 15:17:38",
+                "layer": "titik_parkir"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.63882585850503,
+                    -7.22229720240516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 7,
+                "nama": "Bengkel Dedi - Elektronik Budi",
+                "jenis_fasilitas": "dalam",
+                "jenis_parkir_luar": null,
+                "srp_motor": 0,
+                "srp_mobil": 0,
+                "id_ruasjalan": 237,
+                "ruas": "KALIBENING-GUNUNGLANGIT",
+                "kelas_ruas": "Kabupaten",
+                "id_kecamatan": "3304180",
+                "nama_kecamatan": " Kalibening",
+                "id_desa": "3304180012",
+                "jenis_desa": "Desa",
+                "panjang_lokasi": 20,
+                "lebar_lokasi": 2,
+                "luas_lokasi": 40,
+                "foto": ".\/media\/parkir\/Bengkel_Dedi_-_Elektronik_Budi.jpg",
+                "update_time": "2021-08-28 15:32:58",
+                "layer": "titik_parkir"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.38254,
+                    -7.13343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 8,
+                "nama": "Toko Morodadi - TB. Muliya",
+                "jenis_fasilitas": "dalam",
+                "jenis_parkir_luar": null,
+                "srp_motor": 0,
+                "srp_mobil": 0,
+                "id_ruasjalan": 237,
+                "ruas": "KALIBENING-GUNUNGLANGIT",
+                "kelas_ruas": "Kabupaten",
+                "id_kecamatan": "3304180",
+                "nama_kecamatan": " Kalibening",
+                "id_desa": "3304180012",
+                "jenis_desa": "Desa",
+                "panjang_lokasi": 35,
+                "lebar_lokasi": 2,
+                "luas_lokasi": 70,
+                "foto": ".\/media\/parkir\/Toko_Morodadi_-_TB__Muliya.jpg",
+                "update_time": "2021-08-28 15:39:14",
+                "layer": "titik_parkir"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.38252,
+                    -7.13329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 9,
+                "nama": "Barat SMK Cokro",
+                "jenis_fasilitas": "dalam",
+                "jenis_parkir_luar": null,
+                "srp_motor": 6,
+                "srp_mobil": 0,
+                "id_ruasjalan": 91,
+                "ruas": "JL PEMUDA",
+                "kelas_ruas": "Kabupaten",
+                "id_kecamatan": "3304060",
+                "nama_kecamatan": " Banjarnegara",
+                "id_desa": "3304060015",
+                "jenis_desa": "Kelurahan",
+                "panjang_lokasi": 20,
+                "lebar_lokasi": 4,
+                "luas_lokasi": 80,
+                "foto": ".\/media\/parkir\/borobudur1.png",
+                "update_time": "2021-08-28 16:07:03",
+                "layer": "titik_parkir"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.69831276374369,
+                    -7.39722781387104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 10,
+                "nama": "TB. Aditya - Bakso",
+                "jenis_fasilitas": "dalam",
+                "jenis_parkir_luar": null,
+                "srp_motor": 0,
+                "srp_mobil": 0,
+                "id_ruasjalan": 237,
+                "ruas": "KALIBENING-GUNUNGLANGIT",
+                "kelas_ruas": "Kabupaten",
+                "id_kecamatan": "3304180",
+                "nama_kecamatan": " Kalibening",
+                "id_desa": "3304180012",
+                "jenis_desa": "Desa",
+                "panjang_lokasi": 27,
+                "lebar_lokasi": 2,
+                "luas_lokasi": 54,
+                "foto": null,
+                "update_time": "2021-08-28 16:11:38",
+                "layer": "titik_parkir"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.38245,
+                    -7.13295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 11,
+                "nama": "Nikita Bakery - Polsek",
+                "jenis_fasilitas": "dalam",
+                "jenis_parkir_luar": null,
+                "srp_motor": 0,
+                "srp_mobil": 0,
+                "id_ruasjalan": 237,
+                "ruas": "KALIBENING-GUNUNGLANGIT",
+                "kelas_ruas": "Kabupaten",
+                "id_kecamatan": "3304180",
+                "nama_kecamatan": " Kalibening",
+                "id_desa": "3304180012",
+                "jenis_desa": "Desa",
+                "panjang_lokasi": 18,
+                "lebar_lokasi": 2,
+                "luas_lokasi": 36,
+                "foto": ".\/media\/parkir\/Nikita_Bakery_-_Polsek.jpg",
+                "update_time": "2021-08-29 18:35:00",
+                "layer": "titik_parkir"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.63722361056901,
+                    -7.2206994218908
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+node_modules
+dist
+.aionui
+_tmp_*
+_probe.*
+dev*.log
+dev*.err.log
+
+# foto unggahan pengguna (737 MB) — tidak masuk repo
+public/uploads
