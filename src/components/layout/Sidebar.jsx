@@ -22,12 +22,12 @@ export default function Sidebar({ active, onSelect }) {
       {/* Brand */}
       <div className="flex items-center gap-3 border-b border-primary-800 bg-primary-900 px-4 py-4">
         <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg bg-white/10 overflow-hidden">
-          <img src="/logo.webp" alt="Logo Dishub" className="h-8 w-8 object-contain" />
+          <img src="/logo.webp" alt="Logo Dasbor Analitik Perhubungan" className="h-8 w-8 object-contain" />
         </div>
         <div className="min-w-0">
-          <div className="truncate text-base font-bold leading-tight">Dinas Perhubungan</div>
+          <div className="text-sm font-bold leading-tight">Dasbor Analitik Perhubungan</div>
           <div className="truncate text-[11px] font-medium uppercase tracking-wider text-primary-200">
-            Kab. Banjarnegara
+            Kabupaten Banjarnegara
           </div>
         </div>
       </div>
@@ -75,7 +75,7 @@ export default function Sidebar({ active, onSelect }) {
 
       {/* Footer */}
       <div className="border-t border-primary-800 bg-primary-900/80 px-4 py-3 text-[11px] text-primary-200">
-        <div className="font-medium">© 2026 Dishub Banjarnegara</div>
+        <div className="font-medium">jadantara.org</div>
         <div className="mt-0.5 text-primary-300/80">Dasbor Analitik v0.1</div>
       </div>
     </aside>

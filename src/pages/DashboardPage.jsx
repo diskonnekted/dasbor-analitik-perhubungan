@@ -83,10 +83,10 @@ export default function DashboardPage() {
               Dasbor Analitik
             </div>
             <h2 className="mt-3 text-3xl font-bold leading-tight md:text-4xl">
-              Dinas Perhubungan
+              Dasbor Analitik Perhubungan
             </h2>
             <p className="mt-1 text-sm text-primary-200 md:text-base">
-              Kabupaten Banjarnegara · 2026
+              Kabupaten Banjarnegara
             </p>
             <div className="mt-5 flex flex-wrap gap-2">
               <span className="chip border-white/20 bg-white/10 text-white">20 Kecamatan</span>
@@ -101,7 +101,7 @@ export default function DashboardPage() {
           </div>
           <div className="hidden md:block">
             <div className="flex h-24 w-24 items-center justify-center rounded-2xl bg-white/10 ring-1 ring-white/20">
-              <img src="/logo.webp" alt="Logo Dishub" className="h-16 w-16 object-contain" />
+              <img src="/logo.webp" alt="Logo Dasbor Analitik Perhubungan" className="h-16 w-16 object-contain" />
             </div>
           </div>
         </div>
