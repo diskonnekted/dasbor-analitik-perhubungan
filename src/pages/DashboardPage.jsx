@@ -34,7 +34,7 @@ function fmt(n) {
   return Number(n).toLocaleString('id-ID')
 }
 
-export default function DashboardPage() {
+export default function DashboardPage({ onNavigate }) {
   const [counts, setCounts] = useState(null)
   const [ruasInfo, setRuasInfo] = useState(null)
   const [billing, setBilling] = useState(null)
@@ -286,7 +286,7 @@ export default function DashboardPage() {
               20 kecamatan &amp; desa di Banjarnegara dari file GeoJSON.
             </p>
           </div>
-          <button className="btn-primary self-start md:self-auto">
+          <button className="btn-primary self-start md:self-auto" onClick={() => onNavigate('peta')}>
             Buka Peta Tematik
           </button>
         </div>
