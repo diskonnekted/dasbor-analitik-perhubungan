@@ -1,5 +1,6 @@
 import { useEffect, useRef } from 'react';
 import L from 'leaflet';
+import { addEsriBasemaps } from './esriBasemaps';
 import { MapIcon, RotateCcw } from 'lucide-react';
 
 const CENTER = [-7.4, 109.7];
@@ -38,10 +39,7 @@ export default function ParkirMap({ parkir = [], jukir = [], titikJukir = [], ti
     }
 
     const map = L.map(el, { center: CENTER, zoom: DEFAULT_ZOOM, scrollWheelZoom: true });
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      attribution: '&copy; OpenStreetMap',
-      maxZoom: 19
-    }).addTo(map);
+    addEsriBasemaps(map);
 
     layerRef.current = L.layerGroup().addTo(map);
     mapRef.current = map;

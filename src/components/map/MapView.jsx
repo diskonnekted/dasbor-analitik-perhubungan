@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'react';
-import { MapContainer, TileLayer, GeoJSON, FeatureGroup, CircleMarker, Marker, Popup, useMap, useMapEvents } from 'react-leaflet';
+import { MapContainer, TileLayer, LayersControl, GeoJSON, FeatureGroup, CircleMarker, Marker, Popup, useMap, useMapEvents } from 'react-leaflet';
 import L from 'leaflet';
 import { Layers, Eye, EyeOff, Info, MapPin, Car, User2, BarChart3, AlertTriangle, Search } from 'lucide-react';
 import { clusterPerkap, JENIS_COLOR, JENIS_LABEL, JENIS_ICON, KONDISI_TONE } from '../../api/perlengkapan';
@@ -461,11 +461,22 @@ export default function MapView({ kecamatan, desa, ruas, parkir, jukir, chorople
       {/* Map */}
       <div className="relative h-[700px] w-full">
         <MapContainer center={BANJARNEGARA_CENTER} zoom={DEFAULT_ZOOM} scrollWheelZoom className="h-full w-full">
-          <TileLayer
-            attribution='Imagery &copy; Esri, Maxar, Earthstar Geographics, and the GIS User Community'
-            url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}"
-            maxZoom={19}
-          />
+          <LayersControl position="topright">
+            <LayersControl.BaseLayer checked name="Satelit">
+              <TileLayer
+                attribution='Imagery &copy; Esri, Maxar, Earthstar Geographics, and the GIS User Community'
+                url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}"
+                maxZoom={19}
+              />
+            </LayersControl.BaseLayer>
+            <LayersControl.BaseLayer name="Topografi">
+              <TileLayer
+                attribution='Esri, HERE, Garmin, OpenStreetMap contributors, and the GIS User Community'
+                url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}"
+                maxZoom={19}
+              />
+            </LayersControl.BaseLayer>
+          </LayersControl>
           <ZoomListener onZoomChange={setZoom} />
 
           <FeatureGroup>

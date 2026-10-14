@@ -1,5 +1,6 @@
 import { useEffect, useRef } from 'react';
 import L from 'leaflet';
+import { addEsriBasemaps } from './esriBasemaps';
 
 function escapeHtml(str) {
   if (!str) return '';
@@ -15,9 +16,7 @@ export default function KeselamatanMap({ pengaduan = [], perlengkapan = [] }) {
     if (mapInstance.current) return;
     mapInstance.current = L.map(mapRef.current).setView([-7.3833, 109.6667], 11);
 
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      attribution: '© OpenStreetMap'
-    }).addTo(mapInstance.current);
+    addEsriBasemaps(mapInstance.current);
 
     // Layer pengaduan (red pin)
     const pengaduanLayer = L.layerGroup().addTo(mapInstance.current);

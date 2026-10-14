@@ -11,6 +11,7 @@
  */
 import { useEffect, useMemo, useRef, useState } from 'react';
 import L from 'leaflet';
+import { addEsriBasemaps } from './esriBasemaps';
 import 'leaflet/dist/leaflet.css';
 import { JENIS_COLOR, JENIS_LABEL, KONDISI_TONE } from '../../api/perlengkapan';
 import { Info, Maximize2 } from 'lucide-react';
@@ -71,10 +72,7 @@ export default function PerkapMap({ features = [], height = 600 }) {
         scrollWheelZoom: true,
         zoomControl: true
       });
-      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        attribution: '&copy; OpenStreetMap',
-        maxZoom: 19
-      }).addTo(map);
+      addEsriBasemaps(map);
       const layer = L.layerGroup().addTo(map);
       layerRef.current = layer;
       mapRef.current = map;

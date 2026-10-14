@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
 import L from 'leaflet';
+import { addEsriBasemaps } from './esriBasemaps';
 import { MapIcon, RotateCcw } from 'lucide-react';
 import { JENIS_COLOR, JENIS_LABEL, clusterPerkap } from '../../api/perlengkapan';
 
@@ -101,10 +102,7 @@ export default function PerkapMapNew({ features = [], kecamatan = null, desa = n
       scrollWheelZoom: true
     });
 
-    L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
-      attribution: 'Imagery &copy; Esri, Maxar, Earthstar Geographics, and the GIS User Community',
-      maxZoom: 19
-    }).addTo(map);
+    addEsriBasemaps(map);
 
     layerGroupRef.current = L.layerGroup().addTo(map);
     mapRef.current = map;
