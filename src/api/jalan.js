@@ -12,7 +12,7 @@ export async function getRuas() {
 
   loadingPromise = (async () => {
     try {
-      const res = await fetch(`${import.meta.env.BASE_URL}pju_ruas.geojson`, { cache: 'force-cache' });
+      const res = await fetch(`${import.meta.env.BASE_URL}pju_ruas.geojson`, { cache: 'no-cache' });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const geo = await res.json();
       cache = {

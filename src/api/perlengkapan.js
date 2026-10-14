@@ -81,8 +81,8 @@ export async function getPerkap() {
   loadingPromise = (async () => {
     try {
       const [jenisRes, geoRes] = await Promise.all([
-        fetch(`${import.meta.env.BASE_URL}perlengkapan_jenis.json`, { cache: 'force-cache' }),
-        fetch(`${import.meta.env.BASE_URL}perlengkapan_jalan.geojson`, { cache: 'force-cache' })
+        fetch(`${import.meta.env.BASE_URL}perlengkapan_jenis.json`, { cache: 'no-cache' }),
+        fetch(`${import.meta.env.BASE_URL}perlengkapan_jalan.geojson`, { cache: 'no-cache' })
       ]);
       if (!jenisRes.ok) throw new Error(`jenis HTTP ${jenisRes.status}`);
       if (!geoRes.ok) throw new Error(`geo HTTP ${geoRes.status}`);

@@ -2,9 +2,13 @@ node_modules
 dist
 .aionui
 _tmp_*
+_*_actual.txt
 _probe.*
 dev*.log
 dev*.err.log
 
 # foto unggahan pengguna (737 MB) — tidak masuk repo
 public/uploads
+
+# dump SQL mentah (14 MB, berisi NIK/data pribadi) — tidak masuk repo & tidak ter-serve web
+db-dumps

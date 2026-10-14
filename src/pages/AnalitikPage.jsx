@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from 'react';
 import {
   ResponsiveContainer, ComposedChart, Bar, Line, XAxis, YAxis, CartesianGrid,
-  Tooltip, Legend, BarChart, ScatterChart, Scatter, ZAxis, Cell, ReferenceLine,
+  Tooltip, Legend, BarChart, Cell, ReferenceLine,
 } from 'recharts';
 import { AlertTriangle, Gauge, Lightbulb, Car, ShieldCheck } from 'lucide-react';
 import { ACCIDENT_STATS } from '../api/keselamatan';
@@ -11,11 +11,7 @@ import { getParkir } from '../api/parkir';
 
 const C = { biru: '#1E40AF', merah: '#DC2626', oranye: '#D97706', hijau: '#16A34A', abu: '#94A3B8', ungu: '#7C3AED' };
 
-// ruas JPROVOSI (nama DB, lihat pju_choropleth.Upgrade path: perbaiki spread data di build pipeline.
-const UP = { 1: 'Tidak Diketahui' }; // placeholder untuk kelas map; lihat ponytail di bawah
-
 const fmtRp = (n) => 'Rp ' + Math.round(n / 1e6) + ' jt';
-const fmtKm = (n) => (n >= 1000 ? (n / 1000).toFixed(0) + ' km' : Math.round(n) + ' m');
 
 export default function AnalitikPage() {
   const [accident] = useState(ACCIDENT_STATS);
