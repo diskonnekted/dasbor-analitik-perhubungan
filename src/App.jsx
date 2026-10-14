@@ -1,6 +1,7 @@
 import { useState, lazy, Suspense } from 'react';
 import Sidebar from './components/layout/Sidebar';
 import Topbar from './components/layout/Topbar';
+import MobileNav from './components/layout/MobileNav';
 
 // ponytail: code-split semua halaman — tiap halaman jadi chunk terpisah, di-load saat dibutuhkan.
 const DashboardPage = lazy(() => import('./pages/DashboardPage'));
@@ -43,7 +44,7 @@ export default function App() {
 
       <main className="flex-1 overflow-y-auto">
         <Topbar title={meta.title} subtitle={meta.subtitle} />
-        <div className="mx-auto max-w-screen-2xl p-4 md:p-6">
+        <div className="mx-auto max-w-screen-2xl p-4 pb-20 md:p-6">
           <Suspense fallback={<div className="flex h-64 items-center justify-center text-sm text-slate-400">Memuat halaman…</div>}>
             {active === 'dashboard' && <DashboardPage onNavigate={setActive} />}
             {active === 'analitik' && <AnalitikPage onNavigate={setActive} />}
@@ -61,6 +62,8 @@ export default function App() {
           </Suspense>
         </div>
       </main>
+
+      <MobileNav active={active} onSelect={setActive} />
     </div>
   );
 }

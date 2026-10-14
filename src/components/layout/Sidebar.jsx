@@ -1,20 +1,4 @@
-import { LayoutDashboard, LineChart, Map, MapPin, Building2, Lightbulb, Car, ShieldAlert, ClipboardCheck, Database, FileText, Bus, ClipboardList, Navigation } from 'lucide-react';
-
-const NAV = [
-  { id: 'dashboard', label: 'Dashboard', icon: LayoutDashboard, soon: false },
-  { id: 'analitik', label: 'Analitik Perhubungan', icon: LineChart, soon: false },
-  { id: 'rekomendasi', label: 'Rekomendasi', icon: Navigation, soon: false },
-  { id: 'peta', label: 'Peta Tematik', icon: Map, soon: false },
-  { id: 'laporan', label: 'Laporan', icon: ClipboardList, soon: false },
-  { id: 'jalan', label: 'Jalan & Ruas', icon: MapPin, soon: false },
-  { id: 'perkap', label: 'Perlengkapan', icon: Building2, soon: false },
-  { id: 'pju', label: 'PJU', icon: Lightbulb, soon: false },
-  { id: 'parkir', label: 'Perparkiran', icon: Car, soon: false },
-  { id: 'kecelakaan', label: 'Keselamatan', icon: ShieldAlert, soon: false },
-  { id: 'pkb', label: 'PKB', icon: ClipboardCheck, soon: false },
-  { id: 'angkutan', label: 'Angkutan', icon: Bus, soon: false },
-  { id: 'opendata', label: 'OpenData', icon: Database, soon: false }
-];
+import { NAV } from './navItems';
 
 export default function Sidebar({ active, onSelect }) {
   return (
